@@ -8,6 +8,10 @@
 1. Python
 2. Django
 3. Django RestFramework
+4. VueJS
+5. Vuetify
+6. Element ui vue
+7. MySql
 
 ## Installation
 1. Cloning repository 
