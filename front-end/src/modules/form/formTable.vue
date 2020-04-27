@@ -43,7 +43,7 @@
             label="DOB" prop="dob">
             <template slot-scope="scope">
                 <span>
-                    {{moment(scope.row.dob).format('DD-MMM-YY hh:mm A')}}
+                    {{moment(scope.row.dob).format('DD-MMM-YYYY')}}
                 </span>
             </template>
           </el-table-column>
