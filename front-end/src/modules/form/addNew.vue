@@ -28,7 +28,6 @@
 import firstForm from './firstForm.vue'
 import secondForm from './secondForm.vue'
 import previewForm from './previewForm.vue'
-import formIndex from './formTable'
 
 export default {
   name: 'addNew',
@@ -51,7 +50,6 @@ export default {
     }
   },
   components: {
-    formIndex,
     firstForm,
     secondForm,
     previewForm
