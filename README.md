@@ -23,10 +23,9 @@ git clone https://github.com/Vidhya-Rajendran/cgs-task.git
  2. yarn serve
  
 ### Backend installation
- 1. pip install virttualenv
+ 1. pip install virtualenv
  2. virtualenv venv --python=python3.6
  3. source venv/bin/activate
  4. pip install -r requirements.txt
  5. python manage.py runserver
- 
  
